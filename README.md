@@ -72,6 +72,11 @@ That's it! You should now be able to use Network Alchemist on your local machine
 ## Documentation
 The [Software Requirements Specification (SRS)](/SRS_Document/NETWORK%20ALCHEMIST_SRS_Doc.pdf) document for Network Alchemist can be found here.
 
+## Contributors
+This Project is jointly prepared by:
+* [Muhit Khan](https://linkedin.com/in/muhit-khan)
+* [Sangbartika Saha](https://www.linkedin.com/in/sangbartika-saha-2866b727b/)
+
 ## Future Scope
 Future enhancements could include the ability to save command outputs for future reference, and the integration of more advanced network troubleshooting tools.
 
